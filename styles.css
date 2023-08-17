@@ -2,10 +2,18 @@
 #container{
 	margin:20px;
 	
+}
+#container:before{
+	
+	content: "Before Element";
+	color: #f00;
+	font-size: 20px;
 	
 }
-#container:hover{
+#container:after{
 	
-	background-color:red;
+	content: "After Element";
+	color: #f00;
+	font-size: 20px;
 	
 }
