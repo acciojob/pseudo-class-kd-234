@@ -1,13 +1,11 @@
 /*  your css code here. If applicable */
 #container{
-	background-color:red;
-	border:1px solid black;
-	width:100px;
-	height:100px;
+	margin:20px;
+	
+	
 }
 #container:hover{
 	
-	background-color:blue;
-	border-radius:20px;
+	background-color:red;
 	
 }
